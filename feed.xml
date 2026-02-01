@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Omelas Stories</title>
     <link>https://topherhooper.github.io/omelas-stories/</link>
     <language>en-us</language>
     <copyright>Omelas Stories</copyright>
     <description>A D&amp;D actual play podcast</description>
-    <atom:link href="https://topherhooper.github.io/omelas-stories/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://topherhooper.github.io/omelas-stories/feed.xml" rel="self" type="application/rss+xml" />
 
-    <!-- iTunes/Podcast-specific metadata -->
+    
     <itunes:author>Omelas Stories</itunes:author>
     <itunes:summary>A D&amp;D actual play podcast</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -21,19 +18,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure">
-      <itunes:category text="Games"/>
+      <itunes:category text="Games" />
     </itunes:category>
-    <!-- Placeholder image - replace with your artwork URL -->
-    <itunes:image href="https://topherhooper.github.io/omelas-stories/artwork.jpg"/>
+    
+    <itunes:image href="https://topherhooper.github.io/omelas-stories/artwork.jpg" />
     <image>
       <url>https://topherhooper.github.io/omelas-stories/artwork.jpg</url>
       <title>Omelas Stories</title>
       <link>https://topherhooper.github.io/omelas-stories/</link>
     </image>
 
-    <lastBuildDate>Sat, 01 Feb 2026 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:15:40 -0600</lastBuildDate>
 
-    <!-- Episodes will be added here by the script -->
+    
 
-  </channel>
+  <item><title>C4E26: January 30</title><description>C4E26: January 30</description><enclosure url="https://github.com/topherhooper/omelas-stories/releases/download/v26/C4E26_2026-01-30.mp3" length="268380435" type="audio/mpeg" /><guid isPermaLink="false">omelas-stories-e26</guid><pubDate>Sun, 01 Feb 2026 16:15:40 -0600</pubDate><itunes:title>C4E26: January 30</itunes:title><itunes:episode>26</itunes:episode><itunes:season>2</itunes:season><itunes:duration>3:06:22</itunes:duration><itunes:explicit>false</itunes:explicit></item></channel>
 </rss>
